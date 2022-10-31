@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/*Added nav to replace div below*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,10 +32,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Added nav to replace div below*/
 .header nav ul {
     list-style-type: none;
 }
+/*Added nav to replace div below*/
 
 .header nav ul li {
     display: inline-block;
@@ -163,7 +165,7 @@ aside img {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Changed to h4 from h2 for proper heading flow*/
 .footer h4 {
     font-size: 20px;
 }
