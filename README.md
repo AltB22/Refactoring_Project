@@ -12,7 +12,7 @@
 Installation & usage is simply through loading the public url into your browswer search bar and using the links to navigate.
 
 URL to deployed site: 
-https://altb22.github.io/Refactoring_Project
+
 
 ## Credits
 
